@@ -5,4 +5,6 @@ Shadrack Omondi - CSC 3020
 A placeholder section for “Setup Instructions” (this will be updated in later milestones)
 Milestone 2: Added Docker setup. See Confluence for details.
 My confluence link: https://somondi.atlassian.net/wiki/spaces/~71202087cc7b266b34410d96f5da1195b7d6cc/pages/655363/CSC3020+Term+Project+Milestone+1?atlOrigin=eyJpIjoiOTI2NjM4MjExYTE0NDIwYzlkMDdmMDZmMWJmZmQ5NjMiLCJwIjoiYyJ9
-Milestone-3 link: https://somondi.atlassian.net/wiki/spaces/~71202087cc7b266b34410d96f5da1195b7d6cc/pages/16089090/Milestone+3+AI-Assisted+Tools+and+Ethics
+Milestone-3:
+Explored AI-assisted tools for project documentation and design (see Confluence for details):
+https://somondi.atlassian.net/wiki/spaces/~71202087cc7b266b34410d96f5da1195b7d6cc/pages/16089090/Milestone+3+AI-Assisted+Tools+and+Ethics
